@@ -1,0 +1,757 @@
+index,user_id_maped,program_name,rating,date_,program_genre
+598699,26732,Friends      The One After The uperbowl Part I,3,2017-05-14,Comedy
+599193,26732,Friends     The One Where Chandler Crosses The Line,3,2017-04-11,Comedy
+599682,26732,Friends      The One Where Rachel Quits,3,2017-04-02,Comedy
+600173,26732,Friends      The One Where Phoebe Runs,3,2017-05-25,Comedy
+600652,26732,Friends      The One With The Princess Leia Fantasy,3,2017-05-15,Comedy
+601139,26732,Friends      The One With The Joke,3,2017-07-22,Comedy
+601626,26732,Friends     The One With Rachel's Big Kiss,3,2017-07-13,Comedy
+602111,26732,Heroes  Tabula Rasa,4,2017-07-20,Drama
+602601,26732,Friends      The One With The Prom Video,3,2017-05-14,Comedy
+603092,26732,Friends      The One With The Flashback,3,2017-04-06,Comedy
+604078,26732,Friends      The One With Phoebe's Husband,3,2017-08-27,Comedy
+604566,26732,Friends      The One With The Videotape,3,2017-08-28,Comedy
+605052,26732,Friends      The One At The Beach,3,2017-07-18,Comedy
+605546,26732,Friends      The One With Two Parties,3,2017-07-16,Comedy
+606041,26732,Friends      The One With Barry And Mindy's Wedding,3,2017-08-28,Comedy
+606531,26732,Friends      The One With The Chicken Pox,3,2017-08-28,Comedy
+607516,26732,Friends      The One Where Heckles Dies,3,2017-05-13,Comedy
+607997,26732,Friends      The One That Could Have Been  Part I,3,2017-07-22,Comedy
+608474,26732,Friends      The One Where Underdog Gets Away,3,2017-05-22,Comedy
+608963,26732,Heroes  The Fix,4,2017-07-16,Drama
+609447,26732,Friends     The One Where Ross Is Fine,4,2017-07-11,Comedy
+609942,26732,Friends     The One With The Ball,3,2017-04-18,Comedy
+610425,26732,Friends     The One Where Everybody Finds Out,3,2017-04-18,Comedy
+610908,26732,Friends      The One With The Thumb,3,2017-05-19,Comedy
+611394,26732,Friends     The One With The Girl Who Hits Joey,3,2017-04-18,Comedy
+611868,26732,Friends     The One With Phoebe's Uterus,3,2017-04-12,Comedy
+612364,26732,Think Like A Man,4,2017-03-16,Comedy
+612854,26732,Friends      The One After Vegas,3,2017-06-08,Comedy
+613341,26732,Heroes,4,2017-07-19,Drama
+613831,26732,Friends      The One Where Eddie Moves In,3,2017-07-16,Comedy
+614311,26732,Friends      The One With The Race Car Bed,3,2017-07-17,Comedy
+614794,26732,Community  (T)    Interpretive Dance,3,2017-05-03,Comedy
+615274,26732,Friends      The One Where Chandler Can't Remember,3,2017-04-10,Comedy
+615759,26732,Friends      The One With The Flashback,3,2017-05-14,Comedy
+616242,26732,Friends     The One With The Cheap Wedding Dress,3,2017-07-13,Comedy
+616723,26732,Friends      The One With The Proposal Part II,3,2017-05-25,Comedy
+617214,26732,Heroes  Godsend,4,2017-07-16,Drama
+617685,26732,Friends      The One With The Halloween Party,3,2017-08-28,Comedy
+618169,26732,Friends     The One With All The Resolutions,3,2017-04-18,Comedy
+618650,26732,Friends      The One With The Routine,3,2017-07-21,Comedy
+619133,26732,Friends     The One With Phoebe's Cookies,3,2017-07-13,Comedy
+619627,26732,Friends      The One With The Ick Factor,3,2017-03-28,Comedy
+620113,26732,Friends      The One With The Princess Leia Fantasy,3,2017-07-17,Comedy
+620592,26732,Friends     The One With The Pediatrician,4,2017-07-03,Comedy
+621076,26732,Friends      The One With The creamer,3,2017-04-11,Comedy
+621549,26732,Friends     The One With The Male Nanny,4,2017-07-03,Comedy
+622032,26732,Friends      The One With Frank Jr.,3,2017-04-06,Comedy
+622514,26732,Friends      The One With The Bullies,3,2017-03-29,Comedy
+623001,26732,Friends      The One With Ross' New Girlfriend,1,2017-05-13,Comedy
+623486,26732,Community  (T)    Community,3,2017-03-20,Comedy
+623966,26732,Friends     The One With Chandler In A Box,1,2017-04-12,Comedy
+624442,26732,Scandal  (T)    Ride  ally  Ride,4,2017-05-16,Drama
+624918,26732,Friends      The One Where Joey Loses His Insurance,3,2017-08-27,Comedy
+625410,26732,Heroes  Brother's Keeper,4,2017-07-20,Drama
+625902,26732,Friends     The One With Ross's Wedding Part II,1,2017-07-21,Comedy
+626387,26732,Friends      The One With The List,3,2017-08-28,Comedy
+626875,26732,Scandal  (T)    Guess Who's Coming To Dinner,1,2017-05-16,Drama
+627358,26732,Friends      The One With Two Parties,3,2017-05-15,Comedy
+627842,26732,Friends      The One With Ross's tep Forward,3,2017-03-26,Comedy
+628327,26732,Friends      The One Where Monica & Richard Are Friends,3,2017-04-06,Comedy
+628813,26732,Friends      The One The Morning After,3,2017-05-14,Comedy
+629301,26732,Scandal  (T)    Mrs. mith Goes To Washington,4,2017-05-15,Drama
+629776,26732,Friends     The One With Ross's Wedding Part II,1,2017-05-15,Comedy
+630262,26732,Friends     The One With Phoebe's Birthday Dinner,4,2017-07-03,Comedy
+630750,26732,Scandal  (T)    Icarus,4,2017-05-16,Drama
+631251,26732,Step Brothers,1,2017-03-24,Comedy
+631752,26732,Friends      The One Where Rachel Is Late,3,2017-03-27,Comedy
+632245,26732,Heroes  Five Years Gone,4,2017-07-17,Drama
+632737,26732,Quantico     Cover,4,2017-07-17,Drama
+633229,26732,Friends      The One After The uperbowl Part II,3,2017-05-14,Comedy
+633713,26732,Friends      The One Where Eddie Won't Go,3,2017-05-15,Comedy
+634204,26732,Friends     The One In Barbados - Part II,4,2017-07-05,Comedy
+634701,26732,Friends      The One Where Ross Meets Elizabeth's Dad,3,2017-05-25,Comedy
+635196,26732,Friends      The One Where Ross Dates A tudent,3,2017-05-25,Comedy
+635685,26732,Dance Again,1,2017-04-13,Documentary
+636181,26732,Scandal  (T)    ay Hello To My Little Friend,4,2017-05-15,Drama
+637161,26732,Friends      The One Where Dr. Ramoray Dies,3,2017-08-28,Comedy
+637651,26732,Friends     The One Where Ross Is Fine,2,2017-07-27,Comedy
+638142,26732,Friends     The One With Phoebe's Cookies,3,2017-07-13,Comedy
+638628,26732,Friends      The One Where Eddie Won't Go,3,2017-07-16,Comedy
+639112,26732,Friends      The One After The uperbowl Part II,3,2017-03-29,Comedy
+639608,26732,Friends      The One With The Ring,3,2017-05-25,Comedy
+640098,26732,Heroes  Genesis,1,2017-07-16,Drama
+640589,26732,Heroes  Turn And Face The trange,4,2017-07-19,Drama
+641078,26732,Friends     The One With Rachel's Book,3,2017-07-12,Comedy
+641565,26732,Heroes  Let It Bleed,4,2017-07-20,Drama
+642051,26732,Friends     Friends    Ep,4,2017-07-11,Comedy
+642539,26732,Drive Angry,3,2017-03-29,Thriller
+643039,26732,Friends     The One With Rachel's New Dress,3,2017-04-13,Comedy
+643532,26732,Churchill,2,2017-07-11,Biography
+644017,26732,Friends      The One With The Race Car Bed,3,2017-05-14,Comedy
+644497,26732,Why Did I Get Married Too?,1,2017-07-18,Comedy
+644983,26732,Friends      The One On The Last Night,3,2017-06-08,Comedy
+645473,26732,Unforgettable,2,2017-08-27,Drama
+645955,26732,Friends      Pilot,3,2017-04-13,Comedy
+646443,26732,Friends      The One Where Joey Loses His Insurance,3,2017-05-25,Comedy
+646930,26732,Friends      The One With The creamer,3,2017-05-14,Comedy
+647419,26732,Friends      The One With Mac And C.H.E.E.S.E,3,2017-07-22,Comedy
+647903,26732,Friends      The One With The Tea Leaves,3,2017-03-26,Comedy
+648401,26732,Friends     The One With The Cat,3,2017-04-11,Comedy
+648888,26732,Heroes  Jump  Push  Fall,4,2017-07-20,Drama
+649374,26732,Friends     The One With Chandler's Work Laugh,3,2017-07-12,Comedy
+649873,26732,Friends      The One With The Birth,3,2017-05-24,Comedy
+650367,26732,Stealth,4,2017-05-16,Action
+650863,26732,Heroes  Parasite,4,2017-07-17,Drama
+651361,26732,Friends     The One With Rachel's Inadvertent Kiss,3,2017-04-18,Comedy
+652339,26732,Friends      The One With Phoebe's Husband,4,2017-05-14,Comedy
+653315,26732,Friends      Friends    Ep6,3,2017-05-13,Comedy
+653800,26732,Friends      The One With Ross's Thing,3,2017-05-14,Comedy
+654291,26732,Friends      The One Where Heckles Dies,3,2017-07-16,Comedy
+654782,26732,Friends      The One With The Ring,3,2017-07-22,Comedy
+655269,26732,Friends      The One Where Eddie Moves In,3,2017-03-29,Comedy
+655758,26732,The Black Dahlia,4,2017-07-18,Thriller
+656245,26732,Friends      The One With Monica's Boots,3,2017-03-26,Comedy
+656723,26732,Friends     The One With The Cop,3,2017-04-18,Comedy
+657204,26732,Friends      The One With The tripper,3,2017-03-26,Comedy
+657682,26732,Jumanji,4,2017-03-27,Action
+658160,26732,Friends      The One With Barry And Mindy's Wedding,1,2017-05-15,Comedy
+658643,26732,Friends      The One With The tripper,3,2017-08-28,Comedy
+659119,26732,Friends      The One With Ross' New Girlfriend,3,2017-03-28,Comedy
+659596,26732,Friends      The One With The Monkey,3,2017-03-28,Comedy
+660079,26732,Friends     The One With Joey's Bag,3,2017-04-18,Comedy
+660561,26732,Friends      The One With Joey's Porsche,3,2017-05-25,Comedy
+661046,26732,Friends      The One With The Football,3,2017-04-02,Comedy
+661524,26732,Friends      The One With The Princess Leia Fantasy,3,2017-03-29,Comedy
+662012,26732,Friends     The One Where Ross Is Fine,3,2017-07-26,Comedy
+662507,26732,Friends     The One With The Fertility Test,4,2017-07-04,Comedy
+663000,26732,Heroes  The econd Coming,4,2017-07-18,Drama
+663492,26732,Friends      The One With The Princess Leia Fantasy,3,2017-08-26,Comedy
+663987,26732,Friends      The One With The Tiny T-Shirt,3,2017-04-10,Comedy
+664464,26732,Friends      The One With The Ultimate Champion,3,2017-04-11,Comedy
+664955,26732,Friends     The One After Joey And Rachel Kiss,1,2017-07-06,Comedy
+665442,26732,Friends     The One Where Rachel mokes,3,2017-04-18,Comedy
+665925,26732,Friends      The One With Russ,3,2017-03-29,Comedy
+666418,26732,Friends      The One Where Monica & Richard Are Friends,3,2017-05-15,Comedy
+666911,26732,Friends     The One With The Truth About London,3,2017-07-13,Comedy
+667409,26732,Friends     The One With Joey's New Brain,3,2017-07-13,Comedy
+667883,26732,Friends      The One Where Paul's The Man,3,2017-05-25,Comedy
+668372,26732,Heroes  Landslide,4,2017-07-17,Drama
+669344,26732,Friends     The One Where Ross Moves In,3,2017-04-18,Comedy
+669834,26732,Friends      The One Where Ross Hugs Rachel,3,2017-08-27,Comedy
+670810,26732,Drive Angry,1,2017-03-15,Thriller
+671293,26732,The Girl on the Train,2,2017-04-11,Drama
+671771,26732,Friends      The One With The Apothecary Table,3,2017-07-21,Comedy
+672256,26732,Friends      The One With The Apothecary Table,3,2017-07-22,Comedy
+672735,26732,Quantico     Run,4,2017-07-17,Drama
+673219,26732,Community  (T)    panish,3,2017-03-20,Comedy
+673716,26732,Friends     The One With Rachel's Assistant,3,2017-07-13,Comedy
+674198,26732,Heroes  Hysterical Blindness,4,2017-07-20,Drama
+674687,26732,Friends      The One That Could Have Been  Part II,3,2017-05-25,Comedy
+675168,26732,Friends     The One With The Inappropriate ister,3,2017-05-16,Comedy
+675647,26732,Friends      The One With The Football,3,2017-07-17,Comedy
+676129,26732,Friends     The One After Joey And Rachel Kiss,1,2017-07-26,Comedy
+677090,26732,Friends      The One Where No One's Ready,3,2017-05-14,Comedy
+677567,26732,Friends     The One Where Rachel mokes,3,2017-07-12,Comedy
+678045,26732,Friends     The One With The Ride-Along,3,2017-07-12,Comedy
+678524,26732,Friends      The One With George tephanopoulos,3,2017-05-13,Comedy
+679013,26732,Friends      The One After I Do,1,2017-03-24,Comedy
+679496,26732,Friends      The One Without The ki Trip,1,2017-04-06,Comedy
+679989,26732,Friends      The One After The uperbowl Part II,3,2017-08-28,Comedy
+680475,26732,Heroes  Pass/Fail,4,2017-07-21,Drama
+680962,26732,Friends      The One Where Ross & Rachel Take A Break,3,2017-05-14,Comedy
+681445,26732,Friends     The One With Monica's Thunder,3,2017-07-12,Comedy
+681944,26732,Friends      The One With Ross's Thing,3,2017-07-18,Comedy
+682913,26732,Friends      The One With Ross' New Girlfriend,1,2017-09-17,Comedy
+683387,26732,Friends      The One With Frank Jr.,3,2017-04-10,Comedy
+683873,26732,Friends      The One With The Hypnosis Tape,3,2017-04-10,Comedy
+684355,26732,Collateral Beauty,2,2017-05-15,Drama
+684837,26732,Friends      The One Where Ross Meets Elizabeth's Dad,3,2017-05-25,Comedy
+685323,26732,Friends      The One With The toned Guy,3,2017-03-28,Comedy
+685818,26732,Friends      Pilot,4,2017-03-28,Comedy
+686298,26732,Friends      The One At The Beach,3,2017-05-14,Comedy
+686782,26732,Friends      The One With The Princess Leia Fantasy,1,2017-05-14,Comedy
+687261,26732,Friends      The One With Ross' New Girlfriend,3,2017-08-26,Comedy
+687744,26732,Friends     The One With The Cop,3,2017-07-12,Comedy
+688231,26732,Heroes  Dying Of The Light,4,2017-07-19,Drama
+688712,26732,Scandal  (T)    YOLO,4,2017-05-16,Drama
+689197,26732,Friends      The One Where Joey Loses His Insurance,3,2017-06-08,Comedy
+689682,26732,Friends      The One With Joey's Fridge,3,2017-05-25,Comedy
+690650,26732,Friends      The One Where The Monkey Gets Away,3,2017-03-28,Comedy
+691131,26732,The Amazing pider-Man,1,2017-05-01,Action
+692109,26732,Friends      The One Where Ross And Rachel...You Know,3,2017-05-15,Comedy
+692596,26732,Friends      The One With The Baby On The Bus,3,2017-08-28,Comedy
+693089,26732,Friends      The One With Joey's Interview,3,2017-03-26,Comedy
+693571,26732,Jobs,1,2017-07-21,Drama
+694054,26732,Friends      The One With The Giant Poking Device,3,2017-04-06,Comedy
+694533,26732,Friends      The One Where Joey Moves Out,3,2017-03-29,Comedy
+695018,26732,Friends      The One With Joey's Porsche,3,2017-05-25,Comedy
+695505,26732,Friends      The One With The Princess Leia Fantasy,2,2017-05-15,Comedy
+695993,26732,Community  (T)    Introduction To tatistics,3,2017-04-22,Comedy
+696473,26732,Friends      The One With The List,3,2017-05-14,Comedy
+696956,26732,Heroes  Dual,2,2017-07-19,Drama
+697442,26732,Community  (T)    Investigative Journalism,3,2017-05-03,Comedy
+697927,26732,Friends      The One With The Giant Poking Device,3,2017-04-10,Comedy
+698411,26732,Heroes  A Clear And Present Danger,4,2017-07-19,Drama
+699369,26732,Friends      The One Where Paul's The Man,3,2017-05-25,Comedy
+699846,26732,Friends      The One Where Joey Moves Out,3,2017-05-15,Comedy
+700332,26732,Friends      The One Where Chandler Can't Cry,3,2017-07-22,Comedy
+700824,26732,Friends      The One With The Race Car Bed,3,2017-04-02,Comedy
+701311,26732,Heroes  .07%,4,2017-07-17,Drama
+701798,26732,Friends      The One With Phoebe's Dad,3,2017-07-16,Comedy
+702287,26732,Friends      The One Where Monica & Richard Are Friends,3,2017-05-14,Comedy
+702767,26732,Empire tate,4,2017-03-16,Action
+703265,26732,The Amazing pider-Man,1,2017-05-03,Action
+704232,26732,Friends      The One That Could Have Been  Part I,3,2017-05-25,Comedy
+704719,26732,Friends     The One After Joey And Rachel Kiss,4,2017-07-26,Comedy
+705205,26732,Friends      The One Where Chandler Can't Cry,3,2017-05-25,Comedy
+705693,26732,Friends      The One With All The Jealousy,4,2017-04-10,Comedy
+706176,26732,Friends     The One With Ross's andwich,3,2017-04-18,Comedy
+706663,26732,Friends      The One With The Proposal Part II,3,2017-05-25,Comedy
+707160,26732,Community  (T)    Physical Education,3,2017-05-03,Comedy
+707643,26732,Friends      The One With The Apothecary Table,3,2017-05-25,Comedy
+708133,26732,Friends      The One With The Red weater,3,2017-08-28,Comedy
+708623,26732,Scandal  (T)    We Do Not Touch The First Ladies,3,2017-05-16,Drama
+709114,26732,Friends     The One In Vegas  Part I,3,2017-07-12,Comedy
+710578,26732,Friends      The One With The Football,3,2017-04-06,Comedy
+711064,26732,Friends      The One With The Dollhouse,3,2017-07-17,Comedy
+711550,26732,Friends      The One Where Old Yeller Dies,3,2017-08-28,Comedy
+712042,26732,Heroes  The Eclipse  Part,4,2017-07-19,Drama
+712529,26732,Friends      The One With Unagi,3,2017-05-25,Comedy
+713022,26732,Friends      Friends    Ep2,3,2017-03-28,Comedy
+713510,26732,Friends     The One Where Estelle Dies,3,2017-07-11,Comedy
+713996,26732,Jack Ryan: hadow Recruit,1,2017-04-13,Action
+714491,26732,Friends     The One With All The Wedding Dresses,3,2017-04-13,Comedy
+714977,26732,Friends      The One With Unagi,3,2017-05-25,Comedy
+715465,26732,Friends      The One With The Ring,3,2017-05-25,Comedy
+715951,26732,Friends      The One With The List,3,2017-03-29,Comedy
+716447,26732,Friends      The One With The onogram At The End,3,2017-05-19,Comedy
+716941,26732,Friends      The One With The Metaphorical Tunnel,3,2017-04-06,Comedy
+717432,26732,Friends      The One With The Bullies,3,2017-07-16,Comedy
+717926,26732,Friends     The One With All The Rugby,3,2017-04-13,Comedy
+718902,26732,Friends     The One After Ross ays Rachel,3,2017-05-15,Comedy
+719392,26732,Friends      The One With The Rumor,3,2017-08-28,Comedy
+719878,26732,Friends      The One With The Dollhouse,3,2017-04-10,Comedy
+720365,26732,Friends      The One Where Eddie Won't Go,3,2017-08-28,Comedy
+720855,26732,Friends      The One With The tain,3,2017-08-28,Comedy
+721339,26732,Friends      The One Where Joey Tells Rachel,3,2017-03-26,Comedy
+721835,26732,Heroes  The Wall,4,2017-07-21,Drama
+722323,26732,Friends      The One Where Old Yeller Dies,3,2017-05-15,Comedy
+722813,26732,Friends     The One Where Chandler Gets Caught,3,2017-07-11,Comedy
+723306,26732,Friends      The One With The Giant Poking Device,3,2017-05-14,Comedy
+723789,26732,Friends      The One With The Chicken Pox,3,2017-07-16,Comedy
+724769,26732,Friends      The One With The Fake Monica,2,2017-05-22,Comedy
+725269,26732,Friends      The One With Rachel's Date,3,2017-03-26,Comedy
+725751,26732,Friends     The One With The Cake,3,2017-07-09,Comedy
+726247,26732,Friends      The One The Morning After,4,2017-04-06,Comedy
+726741,26732,Friends     The One Where They're Up All Night,3,2017-07-13,Comedy
+727229,26732,Friends     The One With The Invitation,3,2017-04-13,Comedy
+727729,26732,Friends      The One With The Metaphorical Tunnel,3,2017-05-15,Comedy
+728227,26732,Black-ish  (T)   Pilot,2,2017-07-21,Comedy
+728724,26732,Friends      The One With The Ultimate Champion,3,2017-05-14,Comedy
+729220,26732,Friends      The One Where Paul's The Man,4,2017-07-22,Comedy
+729705,26732,Friends     The One With The Late Thanksgiving,4,2017-07-11,Comedy
+730197,26732,Friends      The One With The German Laundry Detergent,3,2017-03-28,Comedy
+730690,26732,Friends      The One Where Joey Moves Out,3,2017-05-15,Comedy
+731179,26732,Friends      The One With George tephanopoulos,3,2017-05-19,Comedy
+731676,26732,Penny Dreadful     Night Work,3,2017-04-12,Thriller
+732651,26732,Friends      The One With Two Parties,3,2017-03-29,Comedy
+733143,26732,Friends     The One With The harks,4,2017-07-03,Comedy
+733632,26732,Friends      The One Where Ross Got High,3,2017-05-25,Comedy
+734118,26732,Friends      The One With Ross' New Girlfriend,3,2017-07-16,Comedy
+734614,26732,Friends      The One Where Heckles Dies,3,2017-08-27,Comedy
+735110,26732,Friends      The One With The Prom Video,3,2017-03-29,Comedy
+735609,26732,Friends      The One With The Football,3,2017-05-14,Comedy
+736107,26732,Friends      The One With Phoebe's Ex-Partner,3,2017-07-17,Comedy
+736608,26732,Friends      The One With Frank Jr.,3,2017-05-15,Comedy
+737096,26732,Friends      The One With Phoebe's Ex-Partner,3,2017-05-15,Comedy
+737587,26732,The Amazing pider-Man,1,2017-05-01,Action
+738077,26732,Friends      The One Where Chandler Takes A Bath,3,2017-03-26,Comedy
+738571,26732,Friends     The One After Ross ays Rachel,1,2017-08-26,Comedy
+739064,26732,Friends     The One With Phoebe's Wedding,4,2017-07-11,Comedy
+739560,26732,Friends      The One With The Baby On The Bus,3,2017-05-14,Comedy
+740051,26732,Heroes  The Art Of Deception,4,2017-07-21,Drama
+740554,26732,Friends      The One Where Eddie Moves In,1,2017-03-29,Comedy
+741051,26732,Friends      The One Without The ki Trip,3,2017-07-17,Comedy
+741539,26732,Heroes  Upon This Rock,4,2017-07-20,Drama
+742029,26732,Friends      The One Where Chandler Can't Remember,3,2017-04-02,Comedy
+742526,26732,Friends      The One With The Metaphorical Tunnel,3,2017-05-14,Comedy
+743018,26732,Friends     The One In Vegas  Part I,3,2017-04-18,Comedy
+743513,26732,Heroes  hadowboxing,4,2017-07-20,Drama
+744006,26732,Scandal  (T)    More Cattle  Less Bull,4,2017-05-15,Drama
+744989,26732,Friends     The One With Ross's Wedding Part II,1,2017-07-18,Comedy
+745481,26732,Heroes  An Invisible Thread,4,2017-07-20,Drama
+745970,26732,Identity,1,2017-07-21,Thriller
+746458,26732,Friends      The One With The Jam,3,2017-07-17,Comedy
+746950,26732,Friends     The One With All The Kissing,3,2017-05-15,Comedy
+747435,26732,Friends      The One Where Ross Finds Out,3,2017-05-14,Comedy
+747929,26732,Friends      The One With Five teaks And An Eggplant,3,2017-03-28,Comedy
+748417,26732,Friends     The One Where No One Proposes,1,2017-07-26,Comedy
+749376,26732,Friends     The One With The Engagement Picture,3,2017-07-13,Comedy
+749862,26732,Friends      The One With Ross's Teeth,3,2017-08-27,Comedy
+750355,26732,Friends      The One With Barry And Mindy's Wedding,1,2017-09-17,Comedy
+750854,26732,Friends      The One With Ross's Teeth,3,2017-07-21,Comedy
+751343,26732,Scandal  (T)    It's Handled,4,2017-05-15,Drama
+751833,26732,Heroes  Close To You,4,2017-07-21,Drama
+752326,26732,Heroes  ix Months Ago,4,2017-07-15,Drama
+753308,26732,Friends     The One With Ross's Inappropriate ong,4,2017-07-03,Comedy
+753801,26732,Friends      The One With A Chick. And A Duck.,3,2017-05-15,Comedy
+754294,26732,Heroes  Eris Quod um,4,2017-07-19,Drama
+754789,26732,Tears of The un,4,2017-03-16,Action
+755277,26732,Friends      The One With The List,3,2017-07-16,Comedy
+755771,26732,Friends      The One Where Chandler Can't Remember,3,2017-07-17,Comedy
+756264,26732,The Hobbit: The Desolation Of maug,4,2017-03-16,Action
+756743,26732,Friends      The One With Monica's Boots,4,2017-08-28,Comedy
+757238,26732,The Amazing pider-Man,1,2017-05-01,Action
+757733,26732,Friends      The One Where Rachel Finds Out,3,2017-05-24,Comedy
+758225,26732,Friends      The One With The Jam,3,2017-05-15,Comedy
+758716,26732,Friends      The One Where Old Yeller Dies,3,2017-07-16,Comedy
+759203,26732,Friends     The One After Ross ays Rachel,1,2017-04-18,Comedy
+759691,26732,Friends      The One The Morning After,2,2017-04-10,Comedy
+760174,26732,Friends     The One With The Dirty Girl,3,2017-04-11,Comedy
+760670,26732,Heroes  The Hard Part,4,2017-07-17,Drama
+761149,26732,Friends     The One Where Ross Can't Flirt,3,2017-04-18,Comedy
+761641,26732,Heroes  hades Of Gray,4,2017-07-19,Drama
+762135,26732,Heroes  Unexpected,4,2017-07-17,Drama
+762627,26732,Friends      The One With The Dollhouse,3,2017-05-15,Comedy
+763114,26732,Friends     The One With The Ballroom Dancing,3,2017-04-11,Comedy
+763611,26732,Friends      The One Where Rachel Finds Out,3,2017-03-28,Comedy
+764093,26732,Friends      The One After Vegas,3,2017-08-26,Comedy
+764580,26732,Friends      The One Where Phoebe Runs,3,2017-08-27,Comedy
+765067,26732,Friends      The One Without The ki Trip,3,2017-05-15,Comedy
+765555,26732,Friends      The One Where Joey Moves Out,3,2017-07-16,Comedy
+766040,26732,Friends      The One With Unagi,3,2017-07-22,Comedy
+766523,26732,Friends      The One With George tephanopoulos,3,2017-03-28,Comedy
+767004,26732,Friends      The One Where Rachel Quits,3,2017-05-14,Comedy
+767490,26732,Friends      The One With Mac And C.H.E.E.S.E,3,2017-05-25,Comedy
+767978,26732,Community  (T)    Environmental cience,3,2017-04-22,Comedy
+768468,26732,Community  (T)    Home Economics,3,2017-04-22,Comedy
+768959,26732,Friends      The One That Could Have Been  Part II,3,2017-05-25,Comedy
+769453,26732,Scandal  (T)    Guess Who's Coming To Dinner,4,2017-05-15,Drama
+769941,26732,Heroes  The econd Coming,3,2017-07-18,Drama
+770437,26732,Friends     The One With All The Thanksgivings,3,2017-04-18,Comedy
+770930,26732,Sons Of Anarchy     Pilot,1,2017-08-27,Thriller
+771417,26732,Friends      The One With A Chick. And A Duck.,3,2017-07-18,Comedy
+771911,26732,Friends      The One With Joey's Porsche,3,2017-08-27,Comedy
+772394,26732,Friends      The One With The Chicken Pox,3,2017-03-29,Comedy
+772872,26732,Friends      The One With The Blackout,3,2017-05-22,Comedy
+773360,26732,Friends      The One Where Ross & Rachel Take A Break,3,2017-04-06,Comedy
+773845,26732,Friends      The One Where Ross Hugs Rachel,3,2017-05-25,Comedy
+774339,26732,Community  (T)    Advanced Criminal Law,3,2017-03-20,Comedy
+774834,26732,Friends      The One With The Flashback,3,2017-07-17,Comedy
+775323,26732,Friends     The One With The Fake Party,3,2017-04-13,Comedy
+775811,26732,Step Brothers,3,2017-03-19,Comedy
+776296,26732,Heroes  The econd Coming,1,2017-07-17,Drama
+776783,26732,Friends     The One Where No One Proposes,1,2017-07-04,Comedy
+777272,26732,Heroes  Better Halves,4,2017-07-15,Drama
+777765,26732,Friends     Monica And Chandler's Wedding Pt. II,3,2017-07-13,Comedy
+778256,26732,Friends      Friends    Ep6,1,2017-05-22,Comedy
+778746,26732,Friends      The One After The uperbowl Part I,3,2017-03-29,Comedy
+779239,26732,Friends     The One With The Nap Partners,3,2017-07-13,Comedy
+779728,26732,Friends     The One Where Joey peaks French,4,2017-07-11,Comedy
+780215,26732,Assassin's Creed,1,2017-03-14,Action
+780710,26732,Friends     The One With Chandler In A Box,3,2017-04-11,Comedy
+781212,26732,Friends     The One With The Embryos,3,2017-04-13,Comedy
+781697,26732,Friends     The One With The Home tudy,3,2017-07-27,Comedy
+782187,26732,Friends      The One With The Baby On The Bus,3,2017-03-28,Comedy
+782678,26732,Friends      The One With The Hypnosis Tape,3,2017-05-15,Comedy
+783178,26732,Friends      The One With The creamer,1,2017-04-11,Comedy
+783669,26732,Friends      The One With The Rumor,3,2017-03-26,Comedy
+784153,26732,Friends      The One With A Chick. And A Duck.,3,2017-05-14,Comedy
+784651,26732,Friends      The One With Two Parties,3,2017-08-28,Comedy
+785136,26732,Friends      The One With The Halloween Party,3,2017-03-26,Comedy
+785634,26732,Friends     The One After Joey And Rachel Kiss,4,2017-07-09,Comedy
+786121,26732,Friends      The One With The Two Parts  Part,3,2017-03-28,Comedy
+786604,26732,Friends      The One Where Eddie Won't Go,3,2017-03-29,Comedy
+787092,26732,Friends      The One With The Proposal Part I,3,2017-05-25,Comedy
+787589,26732,Scandal  (T)    It's Handled,2,2017-05-15,Drama
+788086,26732,Friends     The One With Rachel's Other ister,3,2017-07-03,Comedy
+788579,26732,Friends     The One Where Rachel's ister Babysits,4,2017-07-09,Comedy
+789077,26732,Friends      The One Where Ross Dates A tudent,3,2017-05-25,Comedy
+789579,26732,Friends      The One With A Chick. And A Duck.,3,2017-04-10,Comedy
+790071,26732,Friends      The One The Morning After,3,2017-05-15,Comedy
+790570,26732,Friends      The One With Ross's Thing,3,2017-05-15,Comedy
+791057,26732,Empire tate,1,2017-03-15,Action
+791545,26732,Friends      The One With The Baby hower,3,2017-03-27,Comedy
+792034,26732,Friends      The One With All The Jealousy,3,2017-04-06,Comedy
+792528,26732,Friends      Rachel Has A Baby - Part II,1,2017-07-03,Comedy
+793024,26732,Friends     The One With The Donor,3,2017-07-04,Comedy
+793504,26732,Friends     The One Where No One Proposes,3,2017-06-24,Comedy
+793984,26732,Friends      The One With The Princess Leia Fantasy,3,2017-05-14,Comedy
+794960,26732,Friends      The One With The Blackout,3,2017-03-28,Comedy
+795451,26732,Friends     The One Where Rosita Dies,3,2017-07-13,Comedy
+796427,26732,Friends     The One With Ross's Wedding Part II,1,2017-07-18,Comedy
+796910,26732,Friends      The One Where Ross Finds Out,3,2017-03-28,Comedy
+797394,26732,Friends     The One With Ross's Wedding Part II,3,2017-04-13,Comedy
+797883,26732,Friends      The One With Rachel's ister,3,2017-05-25,Comedy
+798372,26732,Friends      The One The Morning After,3,2017-07-17,Comedy
+798860,26732,Friends      The One With Phoebe's Husband,3,2017-07-16,Comedy
+799332,26732,The Hobbit: The Desolation Of maug,4,2017-03-14,Action
+799800,26732,Friends     The One With The Jellyfish,3,2017-04-11,Comedy
+800285,26732,Friends      The One With The Football,3,2017-04-10,Comedy
+800770,26732,Friends      The One With The Proposal Part I,3,2017-05-25,Comedy
+801246,26732,Friends      The One After The uperbowl Part I,3,2017-03-29,Comedy
+801724,26732,Friends     The One With The Cake,3,2017-07-27,Comedy
+802215,26732,Friends      The One With Frank Jr.,3,2017-05-14,Comedy
+802692,26732,Scandal  (T)    A Door Marked Exit,4,2017-05-16,Drama
+803166,26732,Heroes  Into Asylum,4,2017-07-19,Drama
+803650,26732,Friends      The One With Mac And C.H.E.E.S.E,3,2017-05-25,Comedy
+804129,26732,Friends      The One With Five teaks And An Eggplant,3,2017-05-14,Comedy
+804608,26732,Community  (T)    Debate,3,2017-04-22,Comedy
+805561,26732,Friends      The One With The Chicken Pox,1,2017-08-28,Comedy
+806525,26732,Friends      The One On The Last Night,3,2017-08-27,Comedy
+807008,26732,Friends      The One Where Rachel Quits,3,2017-04-06,Comedy
+807491,26732,Scandal  (T)    Guess Who's Coming To Dinner,4,2017-05-15,Drama
+808932,26732,Community  (T)    Introduction To tatistics,3,2017-03-20,Comedy
+809891,26732,Friends      The One With Ross' New Girlfriend,1,2017-04-02,Comedy
+810378,26732,Friends     The One In Vegas  Part II,3,2017-04-18,Comedy
+810854,26732,Friends     The One With Rachel's Going Away Party,3,2017-07-11,Comedy
+811339,26732,Community  (T)    Basic Genealogy,3,2017-05-03,Comedy
+811817,26732,Friends      The One Where Heckles Dies,3,2017-08-27,Comedy
+812303,26732,Quantico     Cover,1,2017-07-26,Drama
+812785,26732,Heroes  A Clear And Present Danger,4,2017-07-19,Drama
+813257,26732,Friends      The One With The Thumb,3,2017-05-13,Comedy
+813732,26732,Scandal  (T)    Vermont Is For Lovers  Too,4,2017-05-16,Drama
+814215,26732,Friends     The One With Rachel's Crush,3,2017-04-13,Comedy
+814692,26732,Heroes  Cold nap,4,2017-07-19,Drama
+815178,26732,Friends      The One With The Apothecary Table,3,2017-05-25,Comedy
+815651,26732,Friends      The One With Rachel's Date,3,2017-08-28,Comedy
+816136,26732,Friends      The One That Could Have Been  Part I,3,2017-05-25,Comedy
+816621,26732,Friends      The One With The Joke,3,2017-05-25,Comedy
+817110,26732,Step Brothers,4,2017-03-19,Comedy
+817599,26732,Friends      The One With Ross's Teeth,3,2017-05-25,Comedy
+818573,26732,Friends      The One With The Ring,1,2017-08-26,Comedy
+819056,26732,Friends      The One With The Halloween Party,3,2017-08-28,Comedy
+819554,26732,Friends      The One Where Ross Meets Elizabeth's Dad,1,2017-08-26,Comedy
+820042,26732,Friends      The One Where Ross Hugs Rachel,3,2017-05-25,Comedy
+820534,26732,Friends     The One Where Rachel's ister Babysits,4,2017-07-11,Comedy
+821025,26732,Friends      The One Where Ross And Rachel...You Know,3,2017-07-16,Comedy
+821514,26732,Friends      The One On The Last Night,3,2017-05-25,Comedy
+821996,26732,Friends     The One With The Inappropriate ister,3,2017-04-18,Comedy
+822475,26732,Heroes  Hiros,4,2017-07-15,Drama
+822962,26732,Friends      The One With The Flashback,3,2017-04-02,Comedy
+823453,26732,Friends      The One With Ross's Denial,3,2017-08-27,Comedy
+823941,26732,Friends      The One With The Giant Poking Device,3,2017-07-17,Comedy
+824433,26732,Friends      Friends    Ep13,3,2017-03-28,Comedy
+824922,26732,Friends      The One Where Phoebe Runs,3,2017-07-21,Comedy
+825418,26732,Friends      The One Where Nana Dies Twice,3,2017-05-22,Comedy
+825914,26732,Heroes  Cold Wars,4,2017-07-19,Drama
+826408,26732,Heroes  Run!,4,2017-07-17,Drama
+826901,26732,Friends      The One With Phoebe's Dad,3,2017-03-29,Comedy
+827393,26732,Friends     The One With Rachel's Inadvertent Kiss,3,2017-07-12,Comedy
+827875,26732,Friends     The One With Ross's Wedding Part II,1,2017-08-26,Comedy
+828369,26732,Friends      The One With The Ultimate Champion,3,2017-07-18,Comedy
+828868,26732,Friends      The One With The Fake Monica,3,2017-05-24,Comedy
+829365,26732,Friends     The One With Ross's Library Book,3,2017-07-13,Comedy
+829861,26732,Friends     The One With The Birth Mother,4,2017-07-11,Comedy
+830845,26732,Friends     The One With Ross and Monica's Cousin,3,2017-07-13,Comedy
+831342,26732,Friends      The One With The tain,3,2017-03-26,Comedy
+831838,26732,Friends      The One With The Dozen Lasagnas,3,2017-03-28,Comedy
+832817,26732,Friends      The One With The onogram At The End,3,2017-03-28,Comedy
+833309,26732,Friends      The One With The Candy Hearts,3,2017-03-28,Comedy
+833801,26732,Heroes  Trust And Blood,4,2017-07-19,Drama
+834283,26732,Friends      The One With The creamer,3,2017-07-18,Comedy
+834771,26732,Friends      The One With Joey's Porsche,3,2017-06-08,Comedy
+835269,26732,Friends      The One Where Underdog Gets Away,3,2017-03-28,Comedy
+836250,26732,Heroes  Company Man,3,2017-07-17,Drama
+836737,26732,Friends      The One After I Do,3,2017-03-26,Comedy
+837232,26732,Friends      The One Where Chandler Can't Remember,3,2017-05-15,Comedy
+837719,26732,Friends     The One With All The Haste,3,2017-04-13,Comedy
+838203,26732,Friends      The One With The Birthing Video,3,2017-03-26,Comedy
+838699,26732,Community  (T)    Comparative Religion,3,2017-04-22,Comedy
+839182,26732,Friends     The One With The 'Cuffs,3,2017-04-11,Comedy
+840167,26732,Friends     The One Where Chandler Doesn't Like Dogs,3,2017-07-13,Comedy
+840647,26732,Friends     The One With Joey's Dirty Day,3,2017-04-13,Comedy
+841141,26732,Friends      The One Where Ross Dates A tudent,3,2017-07-22,Comedy
+841632,26732,Friends     The One With Ross's Grant,3,2017-07-09,Comedy
+842122,26732,Friends      The One With The Prom Video,3,2017-07-16,Comedy
+842605,26732,Heroes  One Giant Leap,4,2017-07-15,Drama
+843088,26732,Friends      The One Where Chandler Can't Remember,3,2017-05-14,Comedy
+843581,26732,Friends     The One With All The Resolutions,3,2017-05-16,Comedy
+844070,26732,Heroes  One Of Us  One Of Them,4,2017-07-19,Drama
+844563,26732,Friends      The One With The Flashback,3,2017-04-10,Comedy
+845050,26732,Friends      The One With Barry And Mindy's Wedding,3,2017-05-15,Comedy
+845535,26732,Friends      The One Where Ross Finds Out,3,2017-08-28,Comedy
+846032,26732,Friends      The One With The Tiny T-Shirt,3,2017-05-14,Comedy
+846524,26732,Friends      The One With Russ,3,2017-08-28,Comedy
+847009,26732,Friends      The One With The Giant Poking Device,3,2017-05-15,Comedy
+847488,26732,Friends      The One With The Metaphorical Tunnel,3,2017-07-17,Comedy
+847976,26732,Heroes  Distractions,4,2017-07-16,Drama
+848463,26732,Friends      The One With The Fake Monica,3,2017-03-28,Comedy
+848956,26732,Friends      The One With The Tiny T-Shirt,3,2017-07-17,Comedy
+849448,26732,Friends     The One With Ross's Tan,3,2017-07-27,Comedy
+849940,26732,Friends      The One After The uperbowl Part I,3,2017-08-28,Comedy
+850915,26732,Friends     The One With Rachel's Dream,4,2017-07-04,Comedy
+851410,26732,Friends      The One With Mrs. Bing,3,2017-03-28,Comedy
+851903,26732,Heroes  Orientation,4,2017-07-20,Drama
+852384,26732,Friends      The One Where Joey Moves Out,3,2017-08-28,Comedy
+852871,26732,Heroes  It's Coming,4,2017-07-19,Drama
+853347,26732,The Boss Baby,4,2017-07-13,Animation
+854301,26732,Friends     The One With The Jellyfish,3,2017-05-15,Comedy
+854795,26732,Heroes  Company Man,3,2017-07-17,Drama
+855273,26732,Friends     The One With The oap Opera Party,4,2017-07-04,Comedy
+855758,26732,Friends     The One With All The Cheesecakes,3,2017-07-13,Comedy
+856242,26732,Friends      The One After The uperbowl Part I,3,2017-08-28,Comedy
+856728,26732,Looper,4,2017-03-14,Action
+857214,26732,Friends     The One With Chandler's Dad,3,2017-07-13,Comedy
+857703,26732,Heroes  Dual,4,2017-07-19,Drama
+858194,26732,Friends      The One With The List,2,2017-05-14,Comedy
+858683,26732,Friends     The One After Joey And Rachel Kiss,4,2017-07-06,Comedy
+859171,26732,Friends      The One Where Heckles Dies,3,2017-03-28,Comedy
+859659,26732,Stealth,1,2017-05-16,Action
+860152,26732,Heroes  How To top An Exploding Man,4,2017-07-17,Drama
+860644,26732,Friends      The One With All The Jealousy,3,2017-05-15,Comedy
+861136,26732,Friends     The One With The Embryos,3,2017-04-12,Comedy
+861630,26732,Friends      The One With The Baby On The Bus,3,2017-07-16,Comedy
+862122,26732,Community  (T)    ocial Psychology,3,2017-03-20,Comedy
+862614,26732,Friends     The One With The Vows,3,2017-07-13,Comedy
+863101,26732,Slow West,1,2017-04-13,Action
+863592,26732,Friends      The One Where Rachel Quits,3,2017-05-15,Comedy
+864086,26732,Friends      The One With The German Laundry Detergent,3,2017-05-19,Comedy
+864582,26732,Friends     The One In Vegas  Part II,3,2017-07-12,Comedy
+865072,26732,Friends     The One With Joey's New Girlfriend,3,2017-04-11,Comedy
+865579,26732,Heroes  Nothing To Hide,4,2017-07-15,Drama
+866075,26732,Heroes  even Minutes To Midnight,4,2017-07-15,Drama
+866567,26732,Friends     The One With Joey's Big Break,3,2017-07-12,Comedy
+867051,26732,Friends     The One With The Worst Best Man Ever,3,2017-04-13,Comedy
+867537,26732,Friends     The One With The Jellyfish,1,2017-05-15,Comedy
+868029,26732,Heroes  Brave New World,4,2017-07-21,Drama
+868514,26732,Heroes  Thanksgiving,4,2017-07-20,Drama
+869004,26732,Piranha DD,2,2017-07-21,Thriller
+869498,26732,Friends      Friends    Ep2,3,2017-05-13,Comedy
+869986,26732,Friends     The One In Barbados - Part I,4,2017-07-04,Comedy
+870967,26732,Community  (T)    Romantic Expressionism,3,2017-05-03,Comedy
+871455,26732,Heroes  Building,4,2017-07-19,Drama
+871952,26732,Friends      The One With The Princess Leia Fantasy,1,2017-07-18,Comedy
+872449,26732,Friends      The One With Ross' New Girlfriend,1,2017-03-29,Comedy
+872952,26732,Friends      The One With The Tiny T-Shirt,3,2017-05-15,Comedy
+873439,26732,Friends      The One With The Jam,3,2017-03-29,Comedy
+873931,26732,Friends      Friends    Ep6,1,2017-05-19,Comedy
+874430,26732,Friends     The One With The Holiday Armadillo,3,2017-07-13,Comedy
+874934,26732,Quantico     Cover,3,2017-07-18,Drama
+875437,26732,Friends      The One With Frank Jr.,3,2017-04-02,Comedy
+876428,26732,Friends     The One Where Ross Is Fine,4,2017-07-09,Comedy
+876924,26732,Friends      Pilot,3,2017-05-19,Comedy
+877420,26732,Friends     The One Where Ross Is Fine,3,2017-07-06,Comedy
+877915,26732,Friends      The One Where Ross Meets Elizabeth's Dad,3,2017-07-22,Comedy
+878414,26732,Friends      The One With The Hypnosis Tape,3,2017-05-14,Comedy
+878912,26732,Friends      The One That Could Have Been  Part II,3,2017-07-22,Comedy
+879898,26732,Heroes  trange Attractors,4,2017-07-20,Drama
+880396,26732,Friends      The One With Russ,3,2017-05-14,Comedy
+880895,26732,Friends     The One With The Cake,3,2017-07-27,Comedy
+881385,26732,Heroes  Don't Look Back,4,2017-07-15,Drama
+881877,26732,Stealth,1,2017-05-16,Action
+882373,26732,Moms' Night Out,2,2017-05-16,Comedy
+882873,26732,Friends      The One With The Two Parts  Part,3,2017-03-28,Comedy
+883369,26732,Friends     The One With All The Thanksgivings,3,2017-05-16,Comedy
+883859,26732,Friends      The One With The Metaphorical Tunnel,3,2017-04-10,Comedy
+884830,26732,Friends      The One With The creamer,3,2017-05-15,Comedy
+885324,26732,Friends      The One After The uperbowl Part I,4,2017-03-29,Comedy
+885822,26732,Heroes  I Am ylar,4,2017-07-19,Drama
+886314,26732,Friends      The One With The German Laundry Detergent,3,2017-05-19,Comedy
+886807,26732,Friends     The One Where Emma Cries,3,2017-07-03,SERIES_NOT_ADDED_UNDER_ANY_GENRE
+887304,26732,Friends      The One With Phoebe's Ex-Partner,1,2017-04-10,Comedy
+887795,26732,Assassin's Creed,2,2017-04-10,Action
+888286,26732,Friends      The One After The uperbowl Part II,3,2017-07-16,Comedy
+888770,26732,Friends      The One With The Prom Video,3,2017-08-28,Comedy
+889267,26732,Friends      The One Where Ross Got High,3,2017-05-25,Comedy
+889763,26732,Pineapple Express,4,2017-05-13,Action
+890261,26732,Heroes  Collision,4,2017-07-15,Drama
+890753,26732,Friends      The One Where Joey Loses His Insurance,3,2017-05-25,Comedy
+891240,26732,Heroes  Genesis,3,2017-07-16,Drama
+891729,26732,Friends      The One Where Old Yeller Dies,3,2017-03-29,Comedy
+892220,26732,Friends      The One With Five teaks And An Eggplant,3,2017-08-28,Comedy
+892715,26732,Heroes  Fallout,4,2017-07-16,Drama
+893203,26732,Friends      The One Where Dr. Ramoray Dies,3,2017-07-16,Comedy
+893696,26732,Heroes  I Am Become Death,4,2017-07-19,Drama
+894180,26732,Friends     The One With The Jellyfish,1,2017-04-18,Comedy
+894672,26732,Friends     The One With Chandler's Work Laugh,1,2017-05-16,Comedy
+895163,26732,Friends     The One With The Girl Who Hits Joey,3,2017-07-12,Comedy
+895648,26732,Tears of The un,4,2017-03-19,Action
+896135,26732,Friends      The One With The Metaphorical Tunnel,3,2017-04-02,Comedy
+896627,26732,Empire tate,4,2017-03-15,Action
+897118,26732,Friends      Friends    Ep6,3,2017-03-28,Comedy
+897616,26732,Heroes  Our Father,4,2017-07-19,Drama
+898101,26732,Friends      The One With All The Jealousy,3,2017-07-17,Comedy
+898580,26732,Friends     Monica And Chandler's Wedding Pt. I,3,2017-07-13,Comedy
+899062,26732,Heavenly word,1,2017-04-13,Animation
+899544,26732,Friends      The One With The Dollhouse,3,2017-07-18,Comedy
+900034,26732,Friends      The One Where Rachel Quits,1,2017-04-10,Comedy
+900524,26732,Heroes  Exposed,4,2017-07-19,Drama
+901014,26732,Friends      The One With The Dollhouse,3,2017-05-14,Comedy
+901499,26732,Friends      The One With Barry And Mindy's Wedding,2,2017-07-17,Comedy
+901989,26732,Friends      The One With Joey's Fridge,3,2017-07-22,Comedy
+902482,26732,Friends      The One Without The ki Trip,3,2017-04-10,Comedy
+902967,26732,Friends      The One With Phoebe's Dad,3,2017-05-14,Comedy
+903460,26732,Friends     The One With Rachel's Book,3,2017-07-13,Comedy
+903956,26732,Friends      The One With The Evil Orthodontist,3,2017-03-28,Comedy
+904441,26732,Friends     The One After Joey And Rachel Kiss,1,2017-07-04,Comedy
+904922,26732,Friends     The One With Rachel's Assistant,3,2017-07-13,Comedy
+905892,26732,Friends      The One After Vegas,3,2017-05-25,Comedy
+906373,26732,Friends      The One With Frank Jr.,3,2017-07-17,Comedy
+907342,26732,Friends      The One With The Jam,3,2017-05-14,Comedy
+907831,26732,Friends      The One Where Phoebe Runs,3,2017-05-25,Comedy
+908312,26732,Friends      The One With The ecret Closet,3,2017-03-26,Comedy
+908800,26732,Heroes  Ink,3,2017-07-20,Drama
+909285,26732,Friends     The One With Ross's andwich,3,2017-05-16,Comedy
+909774,26732,Friends      The One Where Joey Dates Rachel,3,2017-03-26,Comedy
+910259,26732,Friends     The One After Joey And Rachel Kiss,1,2017-07-06,Comedy
+910748,26732,Friends      The One Without The ki Trip,3,2017-05-14,Comedy
+911234,26732,Friends     The One Where Rachel's ister Babysits,4,2017-07-27,Comedy
+911711,26732,Friends      The One Where Ross & Rachel Take A Break,3,2017-04-10,Comedy
+912196,26732,Friends      The One With Ross's Denial,3,2017-05-25,Comedy
+912684,26732,Friends     The One Where Ross Can't Flirt,3,2017-07-12,Comedy
+913186,26732,Friends      The One With Ross's Denial,3,2017-05-25,Comedy
+913675,26732,Friends      The One Where Eddie Moves In,3,2017-08-28,Comedy
+914157,26732,Friends     The One With The Yeti,3,2017-05-16,Comedy
+914638,26732,Friends      The One With The Chicken Pox,4,2017-05-15,Comedy
+915614,26732,Friends      Friends    Ep2,3,2017-08-26,Comedy
+916100,26732,Friends      The One With Phoebe's Ex-Partner,3,2017-05-14,Comedy
+916589,26732,Friends      The One With The Princess Leia Fantasy,1,2017-04-12,Comedy
+917067,26732,Friends     The One After Ross ays Rachel,1,2017-07-21,Comedy
+917550,26732,Friends     The One With Ross's Wedding Part II,1,2017-05-19,Comedy
+918032,26732,Friends      The One With The Flashback,3,2017-05-15,Comedy
+918514,26732,Friends      Friends    Ep6,3,2017-05-22,Comedy
+918992,26732,Friends      The One On The Last Night,3,2017-05-25,Comedy
+919481,26732,Community  (T)    Modern Warfare,3,2017-05-03,Comedy
+919973,26732,Friends     The One With The Donor,3,2017-07-04,Comedy
+920458,26732,Friends     The One With The Home tudy,4,2017-07-11,Comedy
+920953,26732,Friends      The One With Ross's Denial,3,2017-06-08,Comedy
+921929,26732,Friends      The One With All The Jealousy,4,2017-04-02,Comedy
+922414,26732,Friends      The One Where Chandler Can't Cry,3,2017-05-25,Comedy
+922908,26732,Friends     The One With The Kips,1,2017-05-16,Comedy
+923397,26732,Friends      The One Where Rachel Tells Ross,3,2017-08-28,Comedy
+923877,26732,Friends      The One With Joey's Interview,3,2017-03-27,Comedy
+924361,26732,Friends      The One With The Thumb,3,2017-03-28,Comedy
+924842,26732,Quantico     America,4,2017-07-17,Drama
+925333,26732,Friends      The One Where Monica & Richard Are Friends,3,2017-04-10,Comedy
+925827,26732,Friends      The One Where Monica & Richard Are Friends,3,2017-07-17,Comedy
+926317,26732,Friends      The One With The Giant Poking Device,4,2017-04-02,Comedy
+926805,26732,Heroes  Villains,4,2017-07-19,Drama
+927298,26732,Friends     The One With Ross's Grant,4,2017-07-27,Comedy
+927789,26732,Friends     The One With Joey's Big Break,3,2017-04-18,Comedy
+928277,26732,Friends      The One With The Cooking Class,3,2017-03-27,Comedy
+928773,26732,Friends     The One Where They All Turn Thirty,3,2017-07-13,Comedy
+929271,26732,Friends      The One With Ross' New Girlfriend,3,2017-05-13,Comedy
+929767,26732,Friends      The One At The Beach,3,2017-05-15,Comedy
+930249,26732,Friends     The One After Joey And Rachel Kiss,4,2017-07-11,Comedy
+930730,26732,The Amazing pider-Man,3,2017-05-03,Action
+931219,26732,Friends      The One With The Routine,3,2017-05-25,Comedy
+931703,26732,Step Brothers,1,2017-03-24,Comedy
+933167,26732,Friends     The Last One - Part Two,4,2017-07-11,Comedy
+933657,26732,Heroes  Acceptance,4,2017-07-20,Drama
+934150,26732,Friends      The One With The Birth,3,2017-03-28,Comedy
+934633,26732,Friends      The One With The Videotape,3,2017-03-26,Comedy
+935108,26732,Friends      The One Where Dr. Ramoray Dies,3,2017-05-15,Comedy
+935584,26732,Friends      Friends    Ep2,3,2017-07-16,Comedy
+936062,26732,Friends      The One With The German Laundry Detergent,1,2017-05-22,Comedy
+936539,26732,Friends      The One With Joey's Fridge,3,2017-05-25,Comedy
+937017,26732,Table,2,2017-08-27,Comedy
+937502,26732,Friends      The One With The Ultimate Champion,3,2017-05-15,Comedy
+937981,26732,Community  (T)    Community    Ep11,3,2017-04-22,Comedy
+938465,26732,Friends      The One Where Ross And Rachel...You Know,3,2017-03-29,Comedy
+938946,26732,Friends     The One With Monica's Thunder,3,2017-07-13,Comedy
+939435,26732,Friends     The One With Princess Consuela,4,2017-07-11,Comedy
+939916,26732,Friends      The One At The Beach,3,2017-04-11,Comedy
+940407,26732,Heroes  Angels And Monsters,4,2017-07-19,Drama
+940887,26732,Friends      The One Where Heckles Dies,3,2017-08-26,Comedy
+941365,26732,Friends      The One With The onogram At The End,3,2017-05-13,Comedy
+941840,26732,Friends      The One After I Do,3,2017-08-28,Comedy
+942811,26732,Alien: Covenant,2,2017-08-27,Horror
+943302,26732,Friends      The One With Ross's Teeth,3,2017-05-25,Comedy
+943785,26732,Friends      The One With The Hypnosis Tape,3,2017-07-17,Comedy
+944267,26732,Friends      The One Where Ross Hugs Rachel,3,2017-06-08,Comedy
+944749,26732,Heroes  Genesis,4,2017-07-15,Drama
+945239,26732,Friends      The One With The Princess Leia Fantasy,1,2017-07-17,Comedy
+945719,26732,Friends     The One With Ross's Tan,3,2017-07-09,Comedy
+946208,26732,Friends      The One With The Routine,3,2017-05-25,Comedy
+946698,26732,Friends      Rachel Has A Baby - Part I,1,2017-07-03,Comedy
+947185,26732,Friends     The One Where No One Proposes,1,2017-07-11,Comedy
+947671,26732,Friends      The One Where Nana Dies Twice,3,2017-03-28,Comedy
+948154,26732,Friends      The One Where No One's Ready,3,2017-05-15,Comedy
+948645,26732,Friends      Rachel Has A Baby - Part I,3,2017-03-27,Comedy
+949129,26732,Friends      The One Where No One's Ready,3,2017-03-29,Comedy
+949616,26732,Heroes  Once Upon A Time In Texas,4,2017-07-20,Drama
+950097,26732,Friends      The One Where Ross & Rachel Take A Break,3,2017-07-17,Comedy
+950567,26732,Heroes  The Fifth tage,4,2017-07-20,Drama
+951050,26732,Friends      The One With The Joke,3,2017-05-25,Comedy
+951516,26732,Friends      The One With Five teaks And An Eggplant,3,2017-07-16,Comedy
+951987,26732,Friends      The One Where Rachel Quits,3,2017-07-17,Comedy
+952464,26732,Friends     The Last One - Part One,3,2017-07-11,Comedy
+952956,26732,Friends     The One Where Phoebe Hates PBS,1,2017-05-15,Comedy
+953446,26732,Friends      The One With The German Laundry Detergent,3,2017-05-13,Comedy
+953932,26732,Friends      Pilot,2,2017-05-13,Comedy
+954416,26732,Friends      The One With Rachel's ister,3,2017-07-22,Comedy
+954901,26732,Friends     The One With Ross's Grant,4,2017-07-11,Comedy
+955393,26732,Friends      The One With The Metaphorical Tunnel,3,2017-03-29,Comedy
+955877,26732,Heroes  Godsend,1,2017-07-16,Drama
+956849,26732,Friends      The One In Massapequa,3,2017-03-26,Comedy
+957341,26732,Friends     The One With Ross's Wedding Part I,3,2017-04-13,Comedy
+957828,26732,Friends      The One With Barry And Mindy's Wedding,3,2017-03-29,Comedy
+958304,26732,Friends      The One With The Ick Factor,3,2017-05-24,Comedy
+958794,26732,Friends      The One Where Ross Finds Out,3,2017-03-29,Comedy
+959283,26732,Friends      The One With The Bullies,3,2017-05-15,Comedy
+959778,26732,Friends     The One With Chandler's Work Laugh,3,2017-04-18,Comedy
+960263,26732,Friends      The One Where Ross And Rachel...You Know,3,2017-08-28,Comedy
+961222,26732,Friends      The One With The Red weater,3,2017-03-26,Comedy
+961704,26732,Friends     The One Where Phoebe Hates PBS,4,2017-05-16,Comedy
+962189,26732,Friends      The One With All The Jealousy,3,2017-05-14,Comedy
+962671,26732,Community  (T)    Introduction To Film,3,2017-03-20,Comedy
+963152,26732,Friends      The One Where Chandler Can't Remember,3,2017-04-06,Comedy
+963630,26732,Friends      The One Where Ross & Rachel Take A Break,3,2017-05-15,Comedy
+964113,26732,Scandal  (T)    Everything's Coming Up Mellie,4,2017-05-16,Drama
+964596,26732,Friends      The One With Phoebe's Dad,3,2017-08-28,Comedy
+965076,26732,Heroes  The Eclipse  Part,4,2017-07-19,Drama
+965559,26732,Friends     The One With Ross's Tan,3,2017-07-11,Comedy
+966041,26732,Heroes  Run!,3,2017-07-16,Drama
+966516,26732,Friends     The One Where They're Going To Party,3,2017-04-12,Comedy
+966998,26732,Friends      The One After The uperbowl Part I,3,2017-07-16,Comedy
+967475,26732,Oblivion,4,2017-09-17,Action
+968440,26732,Friends     The One In Barbados - Part II,1,2017-07-06,Comedy
+968923,26732,Friends      The One With Phoebe's Husband,1,2017-05-13,Comedy
+969399,26732,Friends      The One Where Ross Finds Out,3,2017-07-16,Comedy
+969880,26732,Friends     The One With Joey's Bag,3,2017-07-12,Comedy
+970363,26732,Friends     The One With The Ball,3,2017-07-12,Comedy
+970851,26732,Friends      The One Where Ross Got High,3,2017-07-21,Comedy
+971324,26732,Friends     The One With The Engagement Picture,3,2017-07-13,Comedy
+971816,26732,Friends      The One Where Rachel Tells Ross,3,2017-03-26,Comedy
+972299,26732,The Fifth Estate,2,2017-03-15,Drama
+972777,26732,Heroes  The econd Coming,1,2017-07-19,Drama
+973257,26732,Heroes  Run!,1,2017-07-16,Drama
+973729,26732,Friends      The One Where No One's Ready,3,2017-07-17,Comedy
+974209,26732,Heroes  Ink,4,2017-07-20,Drama
+974680,26732,Heroes  The Butterfly Effect,4,2017-07-19,Drama
+975160,26732,Friends     Friends    Ep17,3,2017-04-13,Comedy
+975652,26732,Heroes  Homecoming,4,2017-07-15,Drama
+976138,26732,Friends     The One Where Everybody Finds Out,3,2017-07-12,Comedy
+976627,26732,Friends      The One With The Race Car Bed,3,2017-04-10,Comedy
+977115,26732,Friends     The One With The Kips,3,2017-05-16,Comedy
+977602,26732,Friends     The One With The Girl From Poughkeepsie,3,2017-04-12,Comedy
+978083,26732,Friends      The One With Barry And Mindy's Wedding,3,2017-07-16,Comedy
+978561,26732,Friends      The One With The Race Car Bed,3,2017-05-15,Comedy
+979049,26732,Friends      The One With The Race Car Bed,3,2017-04-06,Comedy
+979531,26732,Friends      The One With The Football,3,2017-05-15,Comedy
+980012,26732,Friends     The One With The Cake,3,2017-07-11,Comedy
+980483,26732,Friends     The One Hundredth,3,2017-05-15,Comedy
+980973,26732,Friends     The One With Joey's Award,3,2017-07-13,Comedy
+981452,26732,Friends      The One With Phoebe's Ex-Partner,3,2017-04-06,Comedy
+982414,26732,Friends      The One With The Bullies,3,2017-08-28,Comedy
+982894,26732,Friends      The One With All The Poker,3,2017-03-28,Comedy
+983368,26732,Friends      The One With Phoebe's Husband,3,2017-03-28,Comedy
+984324,26732,Community  (T)    Interpretive Dance,3,2017-04-22,Comedy
+984800,26732,Community  (T)    Communication tudies,3,2017-05-03,Comedy
+985272,26732,Friends      The One Where Dr. Ramoray Dies,3,2017-03-29,Comedy
+985747,26732,Friends     The One With The Jellyfish,1,2017-05-14,Comedy
+986224,26732,Friends      The One Where Eddie Moves In,3,2017-05-15,Comedy
+986704,26732,Friends      The One With Barry And Mindy's Wedding,1,2017-07-16,Comedy
+987167,26732,Friends      The One Where Rachel Quits,3,2017-04-10,Comedy
+987643,26732,Friends     The One With The Ride-Along,3,2017-04-18,Comedy
+988125,26732,Friends     The One With All The Candy,3,2017-07-13,Comedy
+988607,26732,Friends      The One With The creamer,2,2017-04-10,Comedy
+989087,26732,Friends      The One With Ross's Thing,3,2017-04-11,Comedy
+989570,26732,Friends      The One On The Last Night,3,2017-07-21,Comedy
+990528,26732,Friends     The One Where Ross Moves In,3,2017-05-16,Comedy
+991008,26732,Friends      The One After I Do,1,2017-03-24,Comedy
+991496,26732,Friends      The One With Rachel's ister,3,2017-05-25,Comedy
+991971,26732,Friends      The One With Russ,3,2017-07-16,Comedy
